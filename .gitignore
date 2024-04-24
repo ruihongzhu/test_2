@@ -7,9 +7,8 @@ mini-program
 .kldx
 .build
 .idea
-.ae
 
 yarn-error.log*
 *-debug.log
 
-output
+output/
